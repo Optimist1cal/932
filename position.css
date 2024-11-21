@@ -21,3 +21,29 @@
     left: 350px;
     color: green;
 }
+#elem4 {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 20px;
+    background-color: #FF8888;
+    position: relative;
+    left: 40px;
+    top: 40px;
+    }
+    #elem5 {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 20px;
+    background-color: #7E89EB;
+    position: relative;
+    left: 80px;
+    }
+    #elem6 {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 20px;
+    background-color: #4DEE99;
+    position: relative;
+    left:160px;
+    bottom:40px;
+    }
