@@ -1,0 +1,32 @@
+h1{
+    color:blue;
+    font: bold Arial;
+    text-align: center;
+    width: 500px;
+    display: block;
+}
+h2{
+    color:green;
+    font-family: "Times New Roman";
+    text-align: center;
+    width: 500px;
+    display: block;
+}
+p{
+    width: 500px;
+    text-align: justify;
+    text-indent: 50px;
+    display: block;
+}
+i{
+    color:green;
+}
+b{
+    text-decoration: underline;
+}
+ul{
+    text-align: justify;
+    width: 400px;
+    display: block;
+}
+/*курсив жирность размер_шрифта / межстрочный_интервал семейство*/

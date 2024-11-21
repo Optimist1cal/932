@@ -1,0 +1,64 @@
+#elem{
+    border-width: 3px;
+    border-style: dotted;
+    border-color: red;
+    width: 300px;
+    height: 200px;
+}
+#elem2{
+    border: 3px double blue;
+    width: 300px;
+    height: 200px;
+}
+#elem3{
+    border: 1px dotted blue; 
+    width: 300px;
+    height: 200px;
+}
+#elem4{
+    border: 3px dashed green;
+    width: 300px;
+    height: 200px;
+}
+#elem5{
+    border-right: 2px dotted green;
+    border-left: 3px solid red;
+    border-top: 1px solid blue;
+    border-bottom:  1px solid blue;
+    width: 300px;
+    height: 200px;
+}
+#elem6{
+    border: 1px solid green;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+#elem7{
+    background-color: chartreuse;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+#elem8{
+    border: 1px solid green;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px 20px 30px 40px;
+}
+#elem9{
+    border: 1px solid green;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+body{
+    background-image: url(bg.jpg);
+}
+#elem11{
+    background-repeat: repeat-x;
+    background-image: url(bg.jpg);
+    width: 1200px;
+    height: 100px;
+    border: 1px solid black;
+}
